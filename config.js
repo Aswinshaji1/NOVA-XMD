@@ -23,13 +23,13 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/p0xeh3.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://cdn.vioo.my.id/v/HTppsn.png",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "NOVA-XMD",
+BOT_NAME: process.env.BOT_NAME || "𝐱𝐞𝐧𝐨𝐦𝐨𝐫𝐩𝐡",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "NOVA-XMD",
+STICKER_NAME: process.env.STICKER_NAME || "𝐱𝐞𝐧𝐨𝐦𝐨𝐫𝐩𝐡",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -43,7 +43,7 @@ OWNER_NAME: process.env.OWNER_NAME || "nova-xmd",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙱.𝙼.𝙱-𝚇𝙼𝙳*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p0xeh3.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://cdn.vioo.my.id/v/HTppsn.png",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *NOVA-XMD*⚡",
 // add alive msg here 
